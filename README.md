@@ -3,7 +3,7 @@
 **Junior Cybersecurity Analyst**  
 Tarquinia (VT), Italy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/john-alessandro-lipari](https://www.linkedin.com/in/john-alessandro-lipari-139248205/))
+[LinkedIn](https://www.linkedin.com/in/john-alessandro-lipari-139248205/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:john.lipari@ik.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat&logo=google-chrome&logoColor=white)](#)
 
