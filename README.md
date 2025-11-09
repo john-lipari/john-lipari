@@ -103,7 +103,7 @@ Mi interessa la **protezione delle infrastrutture critiche** e l'integrazione et
 
 📧 **Email:** john.lipari@ik.me  
 📍 **Location:** Tarquinia (VT), Italy  
-💼 **LinkedIn:** [john-alessandro-lipari](https://linkedin.com/in/john-alessandro-lipari)
+💼 **LinkedIn:** [john-alessandro-lipari][(https://linkedin.com/in/john-alessandro-lipari](https://www.linkedin.com/in/john-alessandro-lipari-139248205/)
 
 ---
 
