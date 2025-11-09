@@ -81,7 +81,7 @@ Lab: Network Security, VMware, Kali Linux, Penetration Testing
 
 ## Featured Projects
 
-### 🔒 [Google Cybersecurity Portfolio](https://github.com/john-lipari/google-cybersecurity-portfolio)
+### 📂 [Google Cybersecurity Portfolio](https://github.com/john-lipari/google-cybersecurity-portfolio)
 Security projects and labs from Google Cybersecurity Professional Certificate including incident response, risk management, and security exercises.
 
 **Highlights:** Incident handler's journal, SYN flood attack analysis, risk assessment reports, USB security awareness exercise
